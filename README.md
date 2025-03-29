@@ -11,7 +11,7 @@
 
 - Tiago de Souza Marçal - Professor adjunto da Universidade Federal de LAvras 
 - contato: tiago.marcal@ufla.br
-- Lattes:
+- Lattes: https://buscatextual.cnpq.br/buscatextual/busca.do;jsessionid=5C71C15A837D349387DA5E704AE41E9F.buscatextual_0
 
 - Vinícius Quintão Carneiro - Professor adjunto da Universidade Federal de LAvras 
 - contato: vinicius.carneiro@ufla.br
