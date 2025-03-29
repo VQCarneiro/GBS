@@ -36,6 +36,7 @@ GBS é um software gratuito.
 ## Módulos
 
 O software GBS conta com procedimentos para planejamento experimental, edição de planilhas e análises estatísticas aplicadas ao melhoramento vegetal. 
+
 Na seção PLANEJAMENTO EXPERIMENTAL são apresentados os sorteios dos seguintes delineamentos:
 - Inteiramente Casualizado;
 - Blocos Completamente Casualizados;
