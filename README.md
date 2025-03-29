@@ -11,11 +11,11 @@
 
 - Tiago de Souza Marçal - Professor adjunto da Universidade Federal de Lavras 
 - contato: tiago.marcal@ufla.br
-- Lattes: https://buscatextual.cnpq.br/buscatextual/busca.do;jsessionid=5C71C15A837D349387DA5E704AE41E9F.buscatextual_0
+- Lattes: https://tinyurl.com/4fzdfs83
 
 - Vinícius Quintão Carneiro - Professor adjunto da Universidade Federal de Lavras 
 - contato: vinicius.carneiro@ufla.br
-- Lattes:http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4409139P7 
+- Lattes: https://tinyurl.com/3ujmkrnv
 
 ---
 ## Requisitos de Sistema
