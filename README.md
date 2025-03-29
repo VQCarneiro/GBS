@@ -41,14 +41,14 @@ Na seção PLANEJAMENTO EXPERIMENTAL são apresentados os sorteios dos seguintes
 - Inteiramente Casualizado;
 - Blocos Completamente Casualizados;
 - Blocos Aumentados;
-- Látices Quadrados: Balanceados e Desbalanceados (Simples e Triplos)
-- Látices Quadrados com Testemunhas nos Blocos: Balanceados e Desbalanceados (Simples e Triplos)
+- Látices Quadrados: Balanceados e Desbalanceados (Simples e Triplos);
+- Látices Quadrados com Testemunhas nos Blocos: Balanceados e Desbalanceados (Simples e Triplos).
 
 Na seção ESTATÍSTICA EXPERIMENTAL são apresentadas análises individuais e conjuntas de experimentos nos delineamentos:
 - Inteiramente Casualizado;
 - Blocos Completamente Casualizados;
 - Blocos Aumentados;
-- Látices Quadrados: Balanceados e Desbalanceados (Simples e Triplos)
+- Látices Quadrados: Balanceados e Desbalanceados (Simples e Triplos).
 
 ---
 
