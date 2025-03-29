@@ -28,7 +28,7 @@
 O Software GBS não requer instalação, apenas que os requisitos de sistema sejam cumpridos. O usuário deve somente fazer o download do arquivo compactado e descompacta-lo em qualquer pasta do computador.
 
 ---
-## Licensa:
+## Licença:
 
 GBS é um software gratuito.
 
