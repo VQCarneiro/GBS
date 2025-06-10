@@ -48,7 +48,9 @@ Na seção ESTATÍSTICA EXPERIMENTAL são apresentadas análises individuais e c
 - Blocos Completamente Casualizados;
 - Blocos Aumentados;
 - Látices Quadrados: Balanceados e Desbalanceados (Simples e Triplos).
-
+---
+## Versões
+- GBS - Versão 0001: [https://github.com/VQCarneiro/GBS/blob/VERSOES/versao_0001.zip](https://github.com/VQCarneiro/GBS/raw/refs/heads/VERSOES/versao_0001.zip?download=)
 ---
 
 ## Contribua!
