@@ -3,7 +3,7 @@
 ---
 
 - GBS é um software gratuito focado em procedimentos estatísticos aplicados ao melhoramento vegetal
-
+- Download: [GBS - Versão 0002] (https://github.com/VQCarneiro/GBS/raw/refs/heads/VERSOES/GBS_v0003.rar?download=)
 
 ---
 ## Autores
