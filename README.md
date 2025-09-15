@@ -50,7 +50,7 @@ Na seção ESTATÍSTICA EXPERIMENTAL são apresentadas análises individuais e c
 - Látices Quadrados: Balanceados e Desbalanceados (Simples e Triplos).
 ---
 ## Versões
-
+- Download: [GBS - Versão Teste](https://github.com/VQCarneiro/GBS/raw/refs/heads/VERSOES/GBS_tester.rar?download=)
 ---
 
 ## Contribua!
