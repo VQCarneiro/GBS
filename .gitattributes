@@ -1,2 +1,0 @@
-GBS_0.01.rar filter=lfs diff=lfs merge=lfs -text
-GBS_teste.rar filter=lfs diff=lfs merge=lfs -text
