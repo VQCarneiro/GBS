@@ -48,7 +48,7 @@ Na seção ESTATÍSTICA EXPERIMENTAL são apresentadas análises individuais e c
 - Blocos Completamente Casualizados;
 - Blocos Aumentados;
 - Parcialmente Repetido (PREP);
-- Látices Quadrados: Balanceados e e Parcialmente Balanceados (Simples e Triplos).
+- Látices Quadrados: Balanceados e Parcialmente Balanceados (Simples e Triplos).
 - Combinação de Delineamentos: Blocos Aumentados / Látices
 ---
 ## Versões
