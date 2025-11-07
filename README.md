@@ -40,14 +40,17 @@ Na seção PLANEJAMENTO EXPERIMENTAL são apresentados os sorteios dos seguintes
 - Inteiramente Casualizado;
 - Blocos Completamente Casualizados;
 - Blocos Aumentados;
-- Látices Quadrados: Balanceados e Desbalanceados (Simples e Triplos);
-- Látices Quadrados com Testemunhas nos Blocos: Balanceados e Desbalanceados (Simples e Triplos).
+- Parcialmente Repetido (PREP);
+- Látices Quadrados: Balanceados e Parcialmente Balanceados (Simples e Triplos);
+- Látices Quadrados com Testemunhas nos Blocos: Balanceados e Parcialmente Balanceados (Simples e Triplos).
 
 Na seção ESTATÍSTICA EXPERIMENTAL são apresentadas análises individuais e conjuntas de experimentos nos delineamentos:
 - Inteiramente Casualizado;
 - Blocos Completamente Casualizados;
 - Blocos Aumentados;
-- Látices Quadrados: Balanceados e Desbalanceados (Simples e Triplos).
+- Parcialmente Repetido (PREP);
+- Látices Quadrados: Balanceados e e Parcialmente Balanceados (Simples e Triplos).
+- Combinação de Delineamentos: Blocos Aumentados / Látices
 ---
 ## Versões
 - Download: [GBS - Versão Teste](https://github.com/VQCarneiro/GBS/raw/refs/heads/VERSOES/GBS_teste.rar?download=)
