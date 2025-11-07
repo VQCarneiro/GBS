@@ -40,7 +40,6 @@ Na seção PLANEJAMENTO EXPERIMENTAL são apresentados os sorteios dos seguintes
 - Inteiramente Casualizado;
 - Blocos Completamente Casualizados;
 - Blocos Aumentados;
-- Parcialmente Repetido (PREP);
 - Látices Quadrados: Balanceados e Parcialmente Balanceados (Simples e Triplos);
 - Látices Quadrados com Testemunhas nos Blocos: Balanceados e Parcialmente Balanceados (Simples e Triplos).
 
