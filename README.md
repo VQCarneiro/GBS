@@ -3,8 +3,8 @@
 ---
 
 - GBS é um software gratuito focado em procedimentos estatísticos aplicados ao melhoramento vegetal
-- Download: [GBS - Versão 1.0](https://github.com/VQCarneiro/GBS/raw/refs/heads/GBS_VERSOES/GBS1.0.rar?download=)
-
+- Download: [GBS - Versão 1.0](https://github.com/VQCarneiro/GBS/raw/refs/heads/GBS_VERSOES/GBS_1.0a.rar?download=)
+  
 ---
 ## Autores
 
@@ -52,6 +52,7 @@ Na seção ESTATÍSTICA EXPERIMENTAL são apresentadas análises individuais e c
 - Combinação de Delineamentos: Blocos Aumentados / Látices
 ---
 ## Versões
+- Download: [GBS - Versão 1.0](https://github.com/VQCarneiro/GBS/raw/refs/heads/GBS_VERSOES/GBS1.0.rar?download=)
 - Download: [GBS - Versão 1.0](https://github.com/VQCarneiro/GBS/raw/refs/heads/GBS_VERSOES/GBS_1.0.rar?download=)
 - Download: [GBS - Versão Teste](https://github.com/VQCarneiro/GBS/raw/refs/heads/GBS_VERSOES/GBS_1.0t.rar?download=)
 ---
