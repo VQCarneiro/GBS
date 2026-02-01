@@ -42,7 +42,7 @@ Após escolher a natureza da análise a ser realizada, o usuário deve clicar no
 </p>
 
 <p align="justify">
-O resultado é apresentado em um arquivo com extensão "txt", que apresentará algumas informações, das quais as mais importantes serão os testes para os efeitos fixos e/ou aleatórios. A seguir é apresentada a parte inicial desse arquivo de resultados.
+O resultado é apresentado em um arquivo com extensão "txt", contendo algumas informações, das quais as mais importantes serão os testes para os efeitos fixos e/ou aleatórios. A seguir é apresentada a parte inicial desse arquivo de resultados.
 </p>
 
 <p align="center">
@@ -57,47 +57,10 @@ Os resultados dos testes de efeito fixo e aleatório da análise são apresentad
   <img src="https://github.com/user-attachments/assets/40cfcea2-03e5-42c1-b741-74982c61347e" alt="Image">
 </p>
 
----
-## Requisitos de Sistema
+<p align="justify">
+A análise individual permitiu observar efeito de tratamentos significativo para o caráter M100G. Constatou-se que 97,07% da variação observada foi devida ao efeito de tratamentos. No arquivo de resultados também são apresentadas as informações de média do experimento (28,7301g), coeficiente de variação (3,4161%) e desvio padrão médio das variância entre tratamentos (0,8085). 
+</p>
 
-- Windows
-
----
-## Instalação
-
-O software GBS não requer instalação. Basta que os requisitos de sistema sejam atendidos e que o usuário faça o download do arquivo compactado, descompactando-o preferencialmente na unidade C (C:)
-
----
-## Licença:
-
-GBS é um software gratuito.
-
----
-## O que o GBS pode fazer:
-Realizar análises estatísticas individuais e conjuntas dos principais delineamentos experimentais empregados na experimentação agrícola aplicada ao melhoramento vegetal, incluindo cenários com estruturas de (co)variância complexas, número variável de repetições e de tratamentos, bem como estimar parâmetros genéticos e não genéticos nessas mesmas condições. Também possibilita a análise de experimentos que apresentam parcelas perdidas e fornece output completo para a inferência sobre os efeitos fixos e aleatórios
-
----
-## Módulos
-
-O software GBS conta com procedimentos para planejamento experimental, edição de planilhas e análises estatísticas aplicadas ao melhoramento vegetal. 
-
-Na seção PLANEJAMENTO EXPERIMENTAL são apresentados os sorteios dos seguintes delineamentos:
-- Inteiramente Casualizado;
-- Blocos Completamente Casualizados;
-- Blocos Aumentados;
-- Látices Quadrados: Balanceados e Parcialmente Balanceados (Simples e Triplos);
-- Látices Quadrados com Testemunhas nos Blocos: Balanceados e Parcialmente Balanceados (Simples e Triplos).
-
-Na seção ESTATÍSTICA EXPERIMENTAL são apresentadas análises individuais e conjuntas de experimentos nos delineamentos:
-- Inteiramente Casualizado;
-- Blocos Completamente Casualizados;
-- Blocos Aumentados;
-- Parcialmente Repetido (PREP);
-- Látices Quadrados: Balanceados e Parcialmente Balanceados (Simples e Triplos).
-- Combinação de Delineamentos: Blocos Aumentados / Látices
----
-
-## Contribua!
-
-- Em caso de erros entre em contato pelo e-mail: vinicius.carneiro@ufla.br/tiago.marcal@ufla.br
-- Sugestões de novos procedimentos são sempre bem vindas!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a2017004-1780-4172-8e82-040aaf36533b" alt="Image">
+</p>
