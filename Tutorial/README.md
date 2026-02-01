@@ -3,10 +3,10 @@
 ---
 
 - GBS é um software gratuito voltado à realização de análises estatísticas aplicadas à genética quantitativa e ao melhoramento vegetal.
-- Download: [GBS - Versão 1.0](https://github.com/VQCarneiro/GBS/raw/refs/heads/GBS_VERSOES/GBS_1.0b.rar?download=)
+- A seguir apresentamos exemplos de análise de dados realizadas no software GBS.
   
 ---
-## Autores
+### Análises Individuais de Experimentos 
 
 - Tiago de Souza Marçal - Professor adjunto da Universidade Federal de Lavras 
 - contato: tiago.marcal@ufla.br
