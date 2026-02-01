@@ -4,7 +4,7 @@
 
 - GBS é um software gratuito voltado à realização de análises estatísticas aplicadas à genética quantitativa e ao melhoramento vegetal.
 - Download: [GBS - Versão 1.0](https://github.com/VQCarneiro/GBS/raw/refs/heads/GBS_VERSOES/GBS_1.0b.rar?download=)
-- Exemplos: [Clique Aqui!](https://github.com/VQCarneiro/GBS/blob/main/Tutorial/README.md)  
+
 ---
 ## Autores
 
@@ -42,7 +42,7 @@ O software GBS conta com procedimentos para planejamento experimental, edição 
 
 Na seção PLANEJAMENTO EXPERIMENTAL são apresentados os sorteios dos seguintes delineamentos:
 - Inteiramente Casualizado;
-- Blocos Completamente Casualizados;
+- ([Blocos Completamente Casualizados](https://github.com/VQCarneiro/GBS/blob/main/Tutorial/README.md));
 - Blocos Aumentados;
 - Látices Quadrados: Balanceados e Parcialmente Balanceados (Simples e Triplos);
 - Látices Quadrados com Testemunhas nos Blocos: Balanceados e Parcialmente Balanceados (Simples e Triplos).
