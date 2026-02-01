@@ -33,6 +33,15 @@ Após carregar o arquivo, o usuário deverá entrar na aba procedimentos e selec
   <img src="https://github.com/user-attachments/assets/67ed1667-5449-4ce9-83aa-c1c4934a30d9" alt="Image">
 </p>
 
+<p align="justify">
+Após escolher a natureza da análise a ser realizada, o usuário deve clicar no ícone de PLAY em azul no canto superior esquerdo da tela para realizar a análise. Os resultados serão apresentados em extensão .txt e/ou .xlsx.  
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c708a766-dbc8-4189-be38-2d23b1255be2" alt="Image">
+</p>
+
+
 ---
 ## Requisitos de Sistema
 
