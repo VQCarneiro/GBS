@@ -42,7 +42,7 @@ O software GBS conta com procedimentos para planejamento experimental, edição 
 
 Na seção PLANEJAMENTO EXPERIMENTAL são apresentados os sorteios dos seguintes delineamentos:
 - Inteiramente Casualizado;
-- [Blocos Completamente Casualizados](https://github.com/VQCarneiro/GBS/blob/main/Tutorial/README.md);
+- [Blocos Completamente Casualizados](https://github.com/VQCarneiro/GBS/tree/main/Tutorial/DBC);
 - Blocos Aumentados;
 - Látices Quadrados: Balanceados e Parcialmente Balanceados (Simples e Triplos);
 - Látices Quadrados com Testemunhas nos Blocos: Balanceados e Parcialmente Balanceados (Simples e Triplos).
