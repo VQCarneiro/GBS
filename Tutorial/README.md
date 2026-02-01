@@ -11,7 +11,7 @@
 ### Delineamento de Blocos Completos Casualizados
 
 - A seguir é apresentada a imagem onde é encontrado o procedimento de análise individual de experimento em delineamento de blocos completos casualizados.
-![Image]("https://github.com/user-attachments/assets/28610e15-a01c-4417-9865-7ff6c05ec220")
+![Image](https://github.com/user-attachments/assets/28610e15-a01c-4417-9865-7ff6c05ec220)
 
 
 
