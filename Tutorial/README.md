@@ -12,12 +12,10 @@
 
 - A seguir é apresentada a imagem onde é encontrado o procedimento de análise individual de experimento em delineamento de blocos completos casualizados.
 ![Image](https://github.com/user-attachments/assets/28610e15-a01c-4417-9865-7ff6c05ec220)
-
-
-
-
  
-- contato: tiago.marcal@ufla.br
+- A primeira etapa para fazer essa análise é organizar os dados contato: tiago.marcal@ufla.br
+![Image](https://github.com/user-attachments/assets/4c8fe6fb-d5f7-4a80-b8d8-fb1ac2b8eec0)
+- 
 - Lattes: https://tinyurl.com/4fzdfs83
 
 - Vinícius Quintão Carneiro - Professor adjunto da Universidade Federal de Lavras 
