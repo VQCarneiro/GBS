@@ -25,6 +25,12 @@ A primeira etapa para fazer essa análise é montar uma planilha em um arquivo e
   <img src="https://github.com/user-attachments/assets/4c8fe6fb-d5f7-4a80-b8d8-fb1ac2b8eec0" alt="Image">
 </p>
 
+Após carregar o arquivo, o usuário deverá entrar na aba procedimentos e selecionar qual a natureza dos efeitos do modelo empregado na análise. Caso o efeito de tratamento seja fixo, o usuário poderá escolher o teste de média a ser realizado junto a análise individual.   
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c8fe6fb-d5f7-4a80-b8d8-fb1ac2b8eec0" alt="Image">
+</p>
+
 ---
 ## Requisitos de Sistema
 
