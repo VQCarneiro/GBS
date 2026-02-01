@@ -6,7 +6,7 @@
 - A seguir apresentamos exemplos de análise de dados realizadas no software GBS.
   
 ---
-### Análises Individuais de Experimentos 
+# Análises Individuais de Experimentos 
 
 - Tiago de Souza Marçal - Professor adjunto da Universidade Federal de Lavras 
 - contato: tiago.marcal@ufla.br
