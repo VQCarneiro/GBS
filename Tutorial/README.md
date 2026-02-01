@@ -58,7 +58,7 @@ Os resultados dos testes de efeito fixo e aleatório da análise são apresentad
 </p>
 
 <p align="justify">
-A análise individual permitiu observar efeito de tratamentos significativo para o caráter M100G. Constatou-se que 97,07% da variação observada foi devida ao efeito de tratamentos. No arquivo de resultados também são apresentadas as informações de média do experimento (28,7301g), coeficiente de variação (3,4161%) e desvio padrão médio das variância entre tratamentos (0,8085). 
+A análise individual permitiu observar efeito de tratamentos significativo para o caráter M100G. Constatou-se que 97,07% da variação observada foi devida ao efeito de tratamentos. No arquivo de resultados também são apresentadas as informações de média do experimento (28,7301g), coeficiente de variação (3,4161%) e desvio padrão médio das variâncias entre tratamentos (0,8085). 
 </p>
 
 <p align="center">
