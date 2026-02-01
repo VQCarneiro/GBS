@@ -36,13 +36,13 @@ GBS é um software gratuito.
 Realizar análises estatísticas individuais e conjuntas dos principais delineamentos experimentais empregados na experimentação agrícola aplicada ao melhoramento vegetal, incluindo cenários com estruturas de (co)variância complexas, número variável de repetições e de tratamentos, bem como estimar parâmetros genéticos e não genéticos nessas mesmas condições. Também possibilita a análise de experimentos que apresentam parcelas perdidas e fornece output completo para a inferência sobre os efeitos fixos e aleatórios
 
 ---
-## Módulos
+## Módulos e Tutorial
 
-O software GBS conta com procedimentos para planejamento experimental, edição de planilhas e análises estatísticas aplicadas ao melhoramento vegetal. 
+O software GBS conta com procedimentos para planejamento experimental, edição de planilhas e análises estatísticas aplicadas ao melhoramento vegetal. Ao clicar nos links a seguir você encontrará os tutoriais de cada um dos procedimentos. 
 
 Na seção PLANEJAMENTO EXPERIMENTAL são apresentados os sorteios dos seguintes delineamentos:
 - Inteiramente Casualizado;
-- ([Blocos Completamente Casualizados](https://github.com/VQCarneiro/GBS/blob/main/Tutorial/README.md));
+- [Blocos Completamente Casualizados](https://github.com/VQCarneiro/GBS/blob/main/Tutorial/README.md);
 - Blocos Aumentados;
 - Látices Quadrados: Balanceados e Parcialmente Balanceados (Simples e Triplos);
 - Látices Quadrados com Testemunhas nos Blocos: Balanceados e Parcialmente Balanceados (Simples e Triplos).
