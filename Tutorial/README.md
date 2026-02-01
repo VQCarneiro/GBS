@@ -34,11 +34,19 @@ Após carregar o arquivo, o usuário deverá entrar na aba procedimentos e selec
 </p>
 
 <p align="justify">
-Após escolher a natureza da análise a ser realizada, o usuário deve clicar no ícone de PLAY em azul no canto superior esquerdo da tela para realizar a análise. Os resultados serão apresentados em extensão .txt e/ou .xlsx.  
+Após escolher a natureza da análise a ser realizada, o usuário deve clicar no ícone de PLAY em azul no canto superior esquerdo da tela para realizar a análise. Os resultados serão apresentados em extensão "txt" e/ou "xlsx".  
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c708a766-dbc8-4189-be38-2d23b1255be2" alt="Image">
+</p>
+
+<p align="justify">
+O resultado é apresentado em um arquivo com extensão "txt", que apresentará algumas informações, das quais as mais importantes serão os testes para os efeitos fixos e/ou aleatórios.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/efc46175-6e48-4d55-98d9-bfc733308197" alt="Image">
 </p>
 
 
