@@ -10,7 +10,7 @@
 ---
 ### Delineamento de Blocos Completos Casualizados
 <p align="justify">
-A seguir é apresentada a imagem onde é encontrado o procedimento de análise individual de experimento em delineamento de blocos completos casualizados.
+Para fins de exemplo do procedimento de análise foi utilizado um exemplo de avaliação de 30 tratamentos de um especie vegetal avaliados quanto a massa de 100 grãos. A seguir é apresentada a imagem onde é encontrado o procedimento de análise individual de experimento em delineamento de blocos completos casualizados.
 </p>
 
 <p align="center">
