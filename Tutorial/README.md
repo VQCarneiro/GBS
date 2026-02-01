@@ -30,7 +30,7 @@ Após carregar o arquivo, o usuário deverá entrar na aba procedimentos e selec
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4c8fe6fb-d5f7-4a80-b8d8-fb1ac2b8eec0" alt="Image">
+  <img src="https://github.com/user-attachments/assets/67ed1667-5449-4ce9-83aa-c1c4934a30d9" alt="Image">
 </p>
 
 ---
