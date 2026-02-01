@@ -6,9 +6,17 @@
 - A seguir apresentamos exemplos de análise de dados realizadas no software GBS.
   
 ---
-# Análises Individuais de Experimentos 
+## Análises Individuais de Experimentos 
+---
+### Delineamento de Blocos Completos Casualizados
 
-- Tiago de Souza Marçal - Professor adjunto da Universidade Federal de Lavras 
+- A seguir é apresentada a imagem onde é encontrado o procedimento de análise individual de experimento em delineamento de blocos completos casualizados.
+![Image](https://github.com/VQCarneiro/GBS/issues/3#issue-3882540040)
+
+
+
+
+ 
 - contato: tiago.marcal@ufla.br
 - Lattes: https://tinyurl.com/4fzdfs83
 
