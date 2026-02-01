@@ -42,13 +42,20 @@ Após escolher a natureza da análise a ser realizada, o usuário deve clicar no
 </p>
 
 <p align="justify">
-O resultado é apresentado em um arquivo com extensão "txt", que apresentará algumas informações, das quais as mais importantes serão os testes para os efeitos fixos e/ou aleatórios.
+O resultado é apresentado em um arquivo com extensão "txt", que apresentará algumas informações, das quais as mais importantes serão os testes para os efeitos fixos e/ou aleatórios. A seguir é apresentada a parte inicial desse arquivo de resultados.
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/efc46175-6e48-4d55-98d9-bfc733308197" alt="Image">
 </p>
 
+<p align="justify">
+Os resultados dos testes de efeito fixo e aleatório da análise são apresentados a seguir:
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40cfcea2-03e5-42c1-b741-74982c61347e" alt="Image">
+</p>
 
 ---
 ## Requisitos de Sistema
