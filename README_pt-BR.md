@@ -58,7 +58,7 @@ O software GBS conta com procedimentos para planejamento experimental, edição 
 ### Planejamento Experimental
 
 - Inteiramente Casualizado;  
-- [Blocos Completamente Casualizados](https://github.com/VQCarneiro/GBS/tree/main/Tutorial/DBC);  
+- Blocos Completamente Casualizados;  
 - Blocos Aumentados;  
 - Látices Quadrados: Balanceados e Parcialmente Balanceados (Simples e Triplos);  
 - Látices Quadrados com Testemunhas nos Blocos: Balanceados e Parcialmente Balanceados (Simples e Triplos).
@@ -66,7 +66,7 @@ O software GBS conta com procedimentos para planejamento experimental, edição 
 ### Estatística Experimental
 
 - Inteiramente Casualizado;  
-- Blocos Completamente Casualizados;  
+- [Blocos Completamente Casualizados](https://github.com/VQCarneiro/GBS/tree/main/Tutorial/DBC);  
 - Blocos Aumentados;  
 - Parcialmente Repetido (PREP);  
 - Látices Quadrados: Balanceados e Parcialmente Balanceados (Simples e Triplos);  
