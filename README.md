@@ -4,7 +4,6 @@
 
 ---
 🌎 Language:
-- 🇧🇷 [Português](https://github.com/VQCarneiro/GBS/blob/main/README_pt-BR.md)
 - 🇧🇷 [Português](README_pt-BR.md)
 
 ---
