@@ -58,15 +58,15 @@ GBS includes procedures for experimental design planning, spreadsheet editing, a
 ### Experimental Design Planning
 
 - Completely Randomized Design (CRD);  
-- [Randomized Complete Block Design (RCBD)](https://github.com/VQCarneiro/GBS/tree/main/Tutorial/DBC);  
+- Randomized Complete Block Design (RCBD);  
 - Augmented Block Design;  
 - Square Lattices: Balanced and Partially Balanced (Simple and Triple);  
 - Square Lattices with Checks within Blocks: Balanced and Partially Balanced (Simple and Triple).
 
 ### Experimental Statistics
 
-- Completely Randomized Design (CRD);  
-- Randomized Complete Block Design (RCBD);  
+- Completely Randomized Design (CRD);
+- [Randomized Complete Block Design (RCBD)](https://github.com/VQCarneiro/GBS/tree/main/Tutorial/DBC);  
 - Augmented Block Design;  
 - Partially Replicated Design (PREP);  
 - Square Lattices: Balanced and Partially Balanced (Simple and Triple);  
