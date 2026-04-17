@@ -1,62 +1,82 @@
+# GBS
+
+🌎 Language:
+- 🇺🇸 English (default)
+- 🇧🇷 [Português](README_pt-BR.md)
+
+---
 
 ![Image](https://github.com/user-attachments/assets/762d2f59-8eb0-40eb-913f-c98ffc2f9c34)
----
-
-- GBS é um software gratuito voltado à realização de análises estatísticas aplicadas à genética quantitativa e ao melhoramento vegetal.
-- Download: [GBS - Versão 1.0](https://github.com/VQCarneiro/GBS/raw/refs/heads/GBS_VERSOES/GBS_1.0b.rar?download=)
 
 ---
-## Autores
 
-- Tiago de Souza Marçal - Professor adjunto da Universidade Federal de Lavras 
-- contato: tiago.marcal@ufla.br
-- Lattes: https://tinyurl.com/4fzdfs83
-
-- Vinícius Quintão Carneiro - Professor adjunto da Universidade Federal de Lavras 
-- contato: vinicius.carneiro@ufla.br
-- Lattes: https://tinyurl.com/3ujmkrnv
+- GBS is a free software designed to perform statistical analyses applied to quantitative genetics and plant breeding.  
+- Download: [GBS - Version 1.0](https://github.com/VQCarneiro/GBS/raw/refs/heads/GBS_VERSOES/GBS_1.0b.rar?download=)
 
 ---
-## Requisitos de Sistema
+
+## Authors
+
+- Tiago de Souza Marçal – Associate Professor at the Federal University of Lavras  
+- Contact: tiago.marcal@ufla.br  
+- Lattes: https://tinyurl.com/4fzdfs83  
+
+- Vinícius Quintão Carneiro – Associate Professor at the Federal University of Lavras  
+- Contact: vinicius.carneiro@ufla.br  
+- Lattes: https://tinyurl.com/3ujmkrnv  
+
+---
+
+## System Requirements
 
 - Windows
 
 ---
-## Instalação
 
-O software GBS não requer instalação. Basta que os requisitos de sistema sejam atendidos e que o usuário faça o download do arquivo compactado, descompactando-o preferencialmente na unidade C (C:)
+## Installation
 
----
-## Licença:
-
-GBS é um software gratuito.
+GBS does not require installation. Users only need to ensure that system requirements are met, download the compressed file, and extract it, preferably to the C drive (C:).
 
 ---
-## O que o GBS pode fazer:
-Realizar análises estatísticas individuais e conjuntas dos principais delineamentos experimentais empregados na experimentação agrícola aplicada ao melhoramento vegetal, incluindo cenários com estruturas de (co)variância complexas, número variável de repetições e de tratamentos, bem como estimar parâmetros genéticos e não genéticos nessas mesmas condições. Também possibilita a análise de experimentos que apresentam parcelas perdidas e fornece output completo para a inferência sobre os efeitos fixos e aleatórios
+
+## License
+
+GBS is free software.
 
 ---
-## Módulos e Tutorial
 
-O software GBS conta com procedimentos para planejamento experimental, edição de planilhas e análises estatísticas aplicadas ao melhoramento vegetal. Ao clicar nos links a seguir você encontrará os tutoriais de cada um dos procedimentos. 
+## GBS Capabilities
 
-Na seção PLANEJAMENTO EXPERIMENTAL são apresentados os sorteios dos seguintes delineamentos:
-- Inteiramente Casualizado;
-- [Blocos Completamente Casualizados](https://github.com/VQCarneiro/GBS/tree/main/Tutorial/DBC);
-- Blocos Aumentados;
-- Látices Quadrados: Balanceados e Parcialmente Balanceados (Simples e Triplos);
-- Látices Quadrados com Testemunhas nos Blocos: Balanceados e Parcialmente Balanceados (Simples e Triplos).
+GBS performs both individual and joint statistical analyses of the main experimental designs used in agricultural experimentation for plant breeding. The software supports scenarios involving complex (co)variance structures, unbalanced data (i.e., variable numbers of replications and treatments), and allows the estimation of both genetic and non-genetic parameters under these conditions.  
 
-Na seção ESTATÍSTICA EXPERIMENTAL são apresentadas análises individuais e conjuntas de experimentos nos delineamentos:
-- Inteiramente Casualizado;
-- Blocos Completamente Casualizados;
-- Blocos Aumentados;
-- Parcialmente Repetido (PREP);
-- Látices Quadrados: Balanceados e Parcialmente Balanceados (Simples e Triplos).
-- Combinação de Delineamentos: Blocos Aumentados / Látices
+Additionally, GBS enables the analysis of experiments with missing plots and provides comprehensive output for inference on fixed and random effects.
+
 ---
 
-## Contribua!
+## Modules and Tutorial
 
-- Em caso de erros entre em contato pelo e-mail: vinicius.carneiro@ufla.br/tiago.marcal@ufla.br
-- Sugestões de novos procedimentos são sempre bem vindas!
+GBS includes procedures for experimental design planning, spreadsheet editing, and statistical analyses applied to plant breeding. By accessing the links below, users can find tutorials for each procedure.
+
+### Experimental Design Planning
+
+- Completely Randomized Design (CRD);  
+- [Randomized Complete Block Design (RCBD)](https://github.com/VQCarneiro/GBS/tree/main/Tutorial/DBC);  
+- Augmented Block Design;  
+- Square Lattices: Balanced and Partially Balanced (Simple and Triple);  
+- Square Lattices with Checks within Blocks: Balanced and Partially Balanced (Simple and Triple).
+
+### Experimental Statistics
+
+- Completely Randomized Design (CRD);  
+- Randomized Complete Block Design (RCBD);  
+- Augmented Block Design;  
+- Partially Replicated Design (PREP);  
+- Square Lattices: Balanced and Partially Balanced (Simple and Triple);  
+- Combined Design Analyses: Augmented Blocks / Lattices.
+
+---
+
+## Contributing
+
+- In case of errors, please contact: vinicius.carneiro@ufla.br / tiago.marcal@ufla.br  
+- Suggestions for new features and procedures are always welcome!
