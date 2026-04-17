@@ -4,7 +4,6 @@
 
 ---
 🌎 Language:
-- 🇺🇸 English (default)
 - 🇧🇷 [Português](README_pt-BR.md)
 
 ---
