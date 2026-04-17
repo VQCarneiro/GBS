@@ -1,19 +1,33 @@
+---
 
 ![Image](https://github.com/user-attachments/assets/762d2f59-8eb0-40eb-913f-c98ffc2f9c34)
+
 ---
 
-- GBS é um software gratuito voltado à realização de análises estatísticas aplicadas à genética quantitativa e ao melhoramento vegetal.
-- A seguir apresentamos o manual e um estudo de caso de um dos procedimentos de análise de dados realizadas no software GBS.
-  
+🌎 Language:
+- 🇧🇷 [Português](README_pt-BR.md)
+
 ---
-## Análises Individuais de Experimentos 
+
+- GBS is a free software designed to perform statistical analyses applied to quantitative genetics and plant breeding.  
+- Below, we present the user manual and a case study of one of the data analysis procedures available in the GBS software.
+
 ---
-### Delineamento de Blocos Completos Casualizados
+
+## Individual Analysis of Experiments
+
 ---
-- Para fins de exemplo do procedimento de análise foi utilizado um exemplo de avaliação de 30 tratamentos de um especie vegetal avaliados quanto a massa de 100 grãos. 
+
+### Randomized Complete Block Design (RCBD)
+
 ---
+
+- For demonstration purposes, an example involving the evaluation of 30 treatments of a plant species for the trait “100-grain weight” was used.
+
+---
+
 <p align="justify">
-A seguir é apresentada a imagem onde é encontrado o procedimento de análise individual de experimento em delineamento de blocos completos casualizados.
+The figure below shows where the procedure for individual analysis under a randomized complete block design can be accessed in the software.
 </p>
 
 <p align="center">
@@ -21,7 +35,7 @@ A seguir é apresentada a imagem onde é encontrado o procedimento de análise i
 </p>
 
 <p align="justify">
-A primeira etapa para fazer essa análise é montar uma planilha em um arquivo em extensão "csv". Nessa planilha os dados devem conter obrigatoriamente as seguintes colunas na seguinte ordem: Repetição e Tratamentos. As demais colunas são relativas às características avaliadas. No arquivo pode conter uma ou mais características. A seguir é apresentada a figura do procedimento de análise individual para experimentos em delineamento em blocos completos casualizados com o arquivo de exemplos do software.
+The first step is to create a spreadsheet in a ".csv" file format. This file must contain, at minimum, the following columns in the specified order: Replication and Treatments. Additional columns correspond to the evaluated traits, and the dataset may include one or more traits. The figure below illustrates the analysis procedure using the example dataset provided in the software.
 </p>
 
 <p align="center">
@@ -29,7 +43,7 @@ A primeira etapa para fazer essa análise é montar uma planilha em um arquivo e
 </p>
 
 <p align="justify">
-Após carregar o arquivo, o usuário deverá entrar na aba procedimentos e selecionar qual a natureza dos efeitos do modelo empregado na análise. Caso o efeito de tratamento seja fixo, o usuário poderá escolher o teste de média a ser realizado junto a análise individual.   
+After loading the dataset, the user must navigate to the procedures tab and define the nature of the effects in the statistical model. If the treatment effect is considered fixed, the user may also select a multiple comparison test to be performed alongside the individual analysis.
 </p>
 
 <p align="center">
@@ -37,7 +51,7 @@ Após carregar o arquivo, o usuário deverá entrar na aba procedimentos e selec
 </p>
 
 <p align="justify">
-Após escolher a natureza da análise a ser realizada, o usuário deve clicar no ícone de PLAY em azul no canto superior esquerdo da tela para realizar a análise. Os resultados serão apresentados em extensão "txt" e/ou "xlsx".  
+Once the analysis settings are defined, the user should click the blue PLAY icon located in the upper-left corner of the interface to run the analysis. The results will be generated in ".txt" and/or ".xlsx" formats.
 </p>
 
 <p align="center">
@@ -45,7 +59,7 @@ Após escolher a natureza da análise a ser realizada, o usuário deve clicar no
 </p>
 
 <p align="justify">
-O resultado é apresentado em um arquivo com extensão "txt", contendo algumas informações, das quais as mais importantes serão os testes para os efeitos fixos e/ou aleatórios. A seguir é apresentada a parte inicial desse arquivo de resultados.
+The output file in ".txt" format contains several pieces of information, with particular emphasis on hypothesis tests for fixed and/or random effects. The initial section of this output file is illustrated below.
 </p>
 
 <p align="center">
@@ -53,7 +67,7 @@ O resultado é apresentado em um arquivo com extensão "txt", contendo algumas i
 </p>
 
 <p align="justify">
-Os resultados dos testes de efeito fixo e aleatório da análise são apresentados a seguir:
+The results of the fixed and random effects tests are presented below:
 </p>
 
 <p align="center">
@@ -61,10 +75,9 @@ Os resultados dos testes de efeito fixo e aleatório da análise são apresentad
 </p>
 
 <p align="justify">
-A análise individual permitiu observar efeito de tratamentos significativo para o caráter M100G. Constatou-se que 97,07% da variação observada foi devida ao efeito de tratamentos. No arquivo de resultados também são apresentadas as informações de média do experimento (28,7301g), coeficiente de variação (3,4161%) e desvio padrão médio das variâncias entre tratamentos (0,8085). 
+The individual analysis revealed a significant treatment effect for the trait M100G. It was observed that 97.07% of the total variation was attributed to treatment effects. The output file also provides the overall mean of the experiment (28.7301 g), coefficient of variation (3.4161%), and the average standard deviation of treatment variances (0.8085).
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a2017004-1780-4172-8e82-040aaf36533b" alt="Image">
 </p>
-
