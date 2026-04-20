@@ -47,7 +47,7 @@ Após carregar o arquivo, o usuário deve acessar a aba de procedimentos e defin
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/67ed1667-5449-4ce9-83aa-c1c4934a30d9" alt="Image">
+  <img src="https://github.com/user-attachments/assets/f75e282b-8bd0-4aa2-8f8d-d1d4cd8fe9ba" alt="Image">
 </p>
 
 <p align="justify">
