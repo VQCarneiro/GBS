@@ -18,16 +18,16 @@
 
 ---
 
-### Delineamento de Blocos Completos Casualizados
+### Delineamento Inteiramente Casulizado
 
 ---
 
-- Para fins de exemplo, foi utilizada a avaliação de 30 tratamentos de uma espécie vegetal quanto à massa de 100 grãos.
+- Para fins de exemplo, foi utilizada a avaliação de 9 tratamentos de uma espécie vegetal quanto à massa seca total.
 
 ---
 
 <p align="justify">
-A figura a seguir mostra onde está localizado o procedimento de análise individual de experimentos em delineamento de blocos completos casualizados no software.
+A figura a seguir mostra onde está localizado o procedimento de análise individual de experimentos em delineamento inteiramente casualizado no software.
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ A figura a seguir mostra onde está localizado o procedimento de análise indivi
 </p>
 
 <p align="justify">
-A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter obrigatoriamente as colunas Repetição e Tratamentos, nessa ordem. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
+A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter os Tratamentos obrigatoriamente na primeira coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="justify">
-A análise individual permitiu observar efeito significativo de tratamentos para o caráter M100G. Verificou-se que 97,07% da variação total foi atribuída ao efeito de tratamentos. O arquivo de resultados também apresenta a média do experimento (28,7301 g), o coeficiente de variação (3,4161%) e o desvio padrão médio das variâncias entre tratamentos (0,8085).
+A análise individual permitiu observar efeito não significativo de tratamentos para o caráter MST. O arquivo de resultados também apresenta a média do experimento (38.3925), o coeficiente de variação (14.8683%) e o desvio padrão médio das variâncias entre tratamentos (4.0364).
 </p>
 
 <p align="center">
