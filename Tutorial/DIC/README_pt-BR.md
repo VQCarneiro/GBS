@@ -71,7 +71,7 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="center">
-  <img src="Image" src="https://github.com/user-attachments/assets/61f4588c-b17a-4399-bfcd-0102aefc49ac" alt="Image">
+  <img src= src="https://github.com/user-attachments/assets/57c7867d-a252-4b33-9234-37a401bcdb17" alt="Image">
 </p>
 
 <p align="justify">
@@ -79,6 +79,6 @@ A análise individual permitiu observar efeito significativo de tratamentos para
 </p>
 
 <p align="center">
-  <img src="Image" src="https://github.com/user-attachments/assets/ba84dd29-d134-41ee-93bf-246edb73d67a" alt="Image">
+  <img src= src="https://github.com/user-attachments/assets/9d9b806c-6f06-49ab-b86c-cff822645d43" alt="Image">
 </p>
 
