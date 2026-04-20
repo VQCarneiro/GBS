@@ -5,29 +5,29 @@
 ---
 
 🌎 Language:
-- 🇧🇷 [Portuguese](README_pt-BR.md)
+- 🇧🇷 [Português](README_pt-BR.md)
 
 ---
 
-- GBS is a free software designed to perform statistical analyses applied to quantitative genetics and plant breeding.  
-- Below, we present the user manual and a case study of one of the data analysis procedures available in the GBS software.
+- GBS is a free software designed to perform statistical analyses applied to quantitative genetics and plant breeding.
+- Below, we present the manual and a case study of one of the data analysis procedures carried out in the GBS software.
 
 ---
 
-## Individual Analysis of Experiments
+## Individual Analyses of Experiments
 
 ---
 
-### Randomized Complete Block Design (RCBD)
+### Completely Randomized Design
 
 ---
 
-- For demonstration purposes, an example involving the evaluation of 30 treatments of a plant species for the trait “100-grain weight” was used.
+- For demonstration purposes, the evaluation of 9 treatments of a plant species regarding total dry mass was used.
 
 ---
 
 <p align="justify">
-The figure below shows where the procedure for individual analysis under a randomized complete block design can be accessed in the software.
+The figure below shows where the individual experiment analysis procedure in a completely randomized design is located within the software.
 </p>
 
 <p align="center">
@@ -35,35 +35,35 @@ The figure below shows where the procedure for individual analysis under a rando
 </p>
 
 <p align="justify">
-The first step is to create a spreadsheet in a ".csv" file format. This file must contain, at minimum, the following columns in the specified order: Replication and Treatments. Additional columns correspond to the evaluated traits, and the dataset may include one or more traits. The figure below illustrates the analysis procedure using the example dataset provided in the software.
+The first step consists of creating a spreadsheet in ".csv" format. This spreadsheet must contain the Treatments in the first column. The remaining columns correspond to the evaluated traits, and there may be one or more. The figure below shows the analysis procedure using the example file provided by the software.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4c8fe6fb-d5f7-4a80-b8d8-fb1ac2b8eec0" alt="Image">
+  <img src="https://github.com/user-attachments/assets/4033571b-fa59-402f-b229-c0fdc7c5fa95" alt="Image">
 </p>
 
 <p align="justify">
-After loading the dataset, the user must navigate to the procedures tab and define the nature of the effects in the statistical model. If the treatment effect is considered fixed, the user may also select a multiple comparison test to be performed alongside the individual analysis.
+After loading the file, the user must access the procedures tab and define the nature of the effects in the statistical model. If the treatment effect is considered fixed, it is possible to select a mean comparison test to be performed along with the analysis.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/67ed1667-5449-4ce9-83aa-c1c4934a30d9" alt="Image">
+  <img src="https://github.com/user-attachments/assets/f75e282b-8bd0-4aa2-8f8d-d1d4cd8fe9ba" alt="Image">
 </p>
 
 <p align="justify">
-Once the analysis settings are defined, the user should click the blue PLAY icon located in the upper-left corner of the interface to run the analysis. The results will be generated in ".txt" and/or ".xlsx" formats.
+After defining the analysis settings, the user must click the blue PLAY icon in the upper-left corner to run the analysis. The results will be generated in ".txt" and/or ".xlsx" formats.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c708a766-dbc8-4189-be38-2d23b1255be2" alt="Image">
+  <img src="https://github.com/user-attachments/assets/1d284c6a-e39e-4ebf-8e5b-53259e2096f6" alt="Image">
 </p>
 
 <p align="justify">
-The output file in ".txt" format contains several pieces of information, with particular emphasis on hypothesis tests for fixed and/or random effects. The initial section of this output file is illustrated below.
+The output file in ".txt" format contains various pieces of information, with emphasis on fixed and/or random effects tests. The initial part of this file is shown below.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/efc46175-6e48-4d55-98d9-bfc733308197" alt="Image">
+  <img src="https://github.com/user-attachments/assets/61f4588c-b17a-4399-bfcd-0102aefc49ac" alt="Image">
 </p>
 
 <p align="justify">
@@ -71,14 +71,13 @@ The results of the fixed and random effects tests are presented below:
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/40cfcea2-03e5-42c1-b741-74982c61347e" alt="Image">
+  <img src="https://github.com/user-attachments/assets/57c7867d-a252-4b33-9234-37a401bcdb17" alt="Image">
 </p>
 
 <p align="justify">
-The individual analysis revealed a significant treatment effect for the trait M100G. It was observed that 97.07% of the total variation was attributed to treatment effects. The output file also provides the overall mean of the experiment (28.7301 g), coefficient of variation (3.4161%), and the average standard deviation of treatment variances (0.8085).
+The individual analysis showed a non-significant treatment effect for the MST trait. The results file also presents the experiment mean (38.3925), the coefficient of variation (14.8683%), and the average standard deviation of variances among treatments (4.0364).
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a2017004-1780-4172-8e82-040aaf36533b" alt="Image">
+  <img src="https://github.com/user-attachments/assets/9d9b806c-6f06-49ab-b86c-cff822645d43" alt="Image">
 </p>
-
