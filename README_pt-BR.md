@@ -65,7 +65,7 @@ O software GBS conta com procedimentos para planejamento experimental, edição 
 
 ### Estatística Experimental
 
-- Inteiramente Casualizado;  
+- [Inteiramente Casualizado](Tutorial/DIC/README_pt-BR.md);  
 - [Blocos Completamente Casualizados](https://github.com/VQCarneiro/GBS/tree/main/Tutorial/DBC);  
 - Blocos Aumentados;  
 - Parcialmente Repetido (PREP);  
