@@ -65,7 +65,7 @@ GBS includes procedures for experimental design planning, spreadsheet editing, a
 
 ### Experimental Statistics
 
-- Completely Randomized Design (CRD);
+- [Completely Randomized Design](Tutorial/DIC/README.md);
 - [Randomized Complete Block Design (RCBD)](https://github.com/VQCarneiro/GBS/tree/main/Tutorial/DBC);  
 - Augmented Block Design;  
 - Partially Replicated Design (PREP);  
