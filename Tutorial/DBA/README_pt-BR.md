@@ -55,7 +55,7 @@ Após definir as configurações da análise, o usuário deve clicar no ícone a
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cea531f-63f8-48ff-9014-167e23417a85" alt="Image">
+  <img src= alt="Image">
 </p>
 
 <p align="justify">
@@ -63,7 +63,7 @@ O arquivo de saída em formato ".txt" contém diversas informações, com destaq
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65f19297-774e-40a9-b62e-54b06bcc83fa" alt="Image">
+  <img src="https://github.com/user-attachments/assets/6cea531f-63f8-48ff-9014-167e23417a85" alt="Image">
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6887218-741b-48af-8ddf-09f303ea0a18" alt="Image">
+  <img src="https://github.com/user-attachments/assets/65f19297-774e-40a9-b62e-54b06bcc83fa" alt="Image">
 </p>
 
 <p align="justify">
