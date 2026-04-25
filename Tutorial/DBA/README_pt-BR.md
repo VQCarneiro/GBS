@@ -18,16 +18,16 @@
 
 ---
 
-### Delineamento Inteiramente Casulizado
+### Delineamento de Blocos Aumentados
 
 ---
 
-- Para fins de exemplo, foi utilizada a avaliação de 9 tratamentos de uma espécie vegetal quanto à massa seca total.
+- Para fins de exemplo, foi utilizada a avaliação de 493 tratamentos de uma espécie vegetal quanto à gravidade específica (GE).
 
 ---
 
 <p align="justify">
-A figura a seguir mostra onde está localizado o procedimento de análise individual de experimentos em delineamento inteiramente casualizado no software.
+A figura a seguir mostra onde está localizado o procedimento de análise individual de experimentos em delineamento de blocos aumentados no software.
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ A figura a seguir mostra onde está localizado o procedimento de análise indivi
 </p>
 
 <p align="justify">
-A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter os Tratamentos obrigatoriamente na primeira coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
+A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter, obrigatoriamente, a identificação dos blocos na primeira coluna e a dos Tratamentos na segunda coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
 </p>
 
 <p align="center">
@@ -75,10 +75,10 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="justify">
-A análise individual permitiu observar efeito não significativo de tratamentos para o caráter MST. O arquivo de resultados também apresenta a média do experimento (38.3925), o coeficiente de variação (14.8683%) e o desvio padrão médio das variâncias entre tratamentos (4.0364).
+A análise individual permitiu observar efeito significativo de tratamentos para o caráter GE. O arquivo de resultados também apresenta a média do experimento (1867.3823), o coeficiente de variação (0.5389%) e o desvio padrão médio das variâncias entre tratamentos (9.8463).
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d9b806c-6f06-49ab-b86c-cff822645d43" alt="Image">
+  <img src="https://github.com/user-attachments/assets/a6887218-741b-48af-8ddf-09f303ea0a18" alt="Image">
 </p>
 
