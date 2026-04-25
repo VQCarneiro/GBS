@@ -47,7 +47,7 @@ Após carregar o arquivo, o usuário deve acessar a aba de procedimentos e defin
 </p>
 
 <p align="center">
-  <img src="https://github.com/VQCarneiro/GBS/issues/23#issue-4329357865" alt="Image">
+  <img src="https://github.com/user-attachments/assets/5e29d069-062a-4ee6-a5cc-ffc3c131fb2d" alt="Image">
 </p>
 
 <p align="justify">
