@@ -31,7 +31,7 @@ A figura a seguir mostra onde está localizado o procedimento de análise indivi
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bdd54d8c-800d-4920-af12-880056d720a2" alt="Image">
+  <img src="https://github.com/user-attachments/assets/d861b898-7404-45aa-8621-ca39feefab6f" alt="Image">
 </p>
 
 <p align="justify">
