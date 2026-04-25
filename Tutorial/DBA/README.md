@@ -1,6 +1,3 @@
-# GBS Software -- User Guide and Case Study
-
-------------------------------------------------------------------------
 
 ![Image](https://github.com/user-attachments/assets/762d2f59-8eb0-40eb-913f-c98ffc2f9c34)
 
