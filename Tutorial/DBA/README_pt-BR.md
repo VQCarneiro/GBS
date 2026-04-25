@@ -63,7 +63,7 @@ O arquivo de saída em formato ".txt" contém diversas informações, com destaq
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/61f4588c-b17a-4399-bfcd-0102aefc49ac" alt="Image">
+  <img src="https://github.com/user-attachments/assets/2f2582f8-262d-446c-8088-73726ef51bb3" alt="Image">
 </p>
 
 <p align="justify">
