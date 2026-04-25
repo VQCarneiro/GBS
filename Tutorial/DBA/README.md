@@ -1,84 +1,88 @@
----
+# GBS Software -- User Guide and Case Study
+
+------------------------------------------------------------------------
 
 ![Image](https://github.com/user-attachments/assets/762d2f59-8eb0-40eb-913f-c98ffc2f9c34)
 
----
+------------------------------------------------------------------------
 
-🌎 Language:
-- 🇧🇷 [Portuguese](README_pt-BR.md)
+🌎 Language: - 🇧🇷 [Português](README_pt-BR.md)
 
----
+------------------------------------------------------------------------
 
-- GBS is a free software designed to perform statistical analyses applied to quantitative genetics and plant breeding.
-- Below, we present the manual and a case study of one of the data analysis procedures carried out in the GBS software.
+-   GBS is a free software designed for performing statistical analyses
+    applied to quantitative genetics and plant breeding.
+-   Below, we present a user guide and a case study of one of the data
+    analysis procedures performed using the GBS software.
 
----
+------------------------------------------------------------------------
 
-## Individual Analyses of Experiments
+## Individual Experiment Analyses
 
----
+------------------------------------------------------------------------
 
-### Completely Randomized Design
+### Augmented Block Design
 
----
+------------------------------------------------------------------------
 
-- For demonstration purposes, the evaluation of 9 treatments of a plant species regarding total dry mass was used.
+-   For demonstration purposes, the evaluation of 493 treatments of a
+    plant species for specific gravity (SG) was used.
 
----
+------------------------------------------------------------------------
 
-<p align="justify">
-The figure below shows where the individual experiment analysis procedure in a completely randomized design is located within the software.
-</p>
+The figure below shows where the procedure for individual analysis of
+experiments using an augmented block design is located within the
+software.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d861b898-7404-45aa-8621-ca39feefab6f"  alt="Image">
-</p>
+![Image](https://github.com/user-attachments/assets/d861b898-7404-45aa-8621-ca39feefab6f)
 
-<p align="justify">
-The first step consists of creating a spreadsheet in ".csv" format. This spreadsheet must contain the Treatments in the first column. The remaining columns correspond to the evaluated traits, and there may be one or more. The figure below shows the analysis procedure using the example file provided by the software.
-</p>
+------------------------------------------------------------------------
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4033571b-fa59-402f-b229-c0fdc7c5fa95" alt="Image">
-</p>
+The first step consists of preparing a spreadsheet in ".csv" format.
+This file must contain, obligatorily, block identification in the first
+column and treatment identification in the second column. The remaining
+columns correspond to the evaluated traits, and there may be one or
+more. The figure below illustrates the analysis procedure using the
+example file provided with the software.
 
-<p align="justify">
-After loading the file, the user must access the procedures tab and define the nature of the effects in the statistical model. If the treatment effect is considered fixed, it is possible to select a mean comparison test to be performed along with the analysis.
-</p>
+![Image](https://github.com/user-attachments/assets/2aa46b18-8789-477d-9d87-20a68d184537)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f75e282b-8bd0-4aa2-8f8d-d1d4cd8fe9ba" alt="Image">
-</p>
+------------------------------------------------------------------------
 
-<p align="justify">
-After defining the analysis settings, the user must click the blue PLAY icon in the upper-left corner to run the analysis. The results will be generated in ".txt" and/or ".xlsx" formats.
-</p>
+After loading the file, the user must access the procedures tab and
+define the nature of the effects in the statistical model. If the
+treatment effect is considered fixed, it is possible to select a mean
+comparison test to be performed along with the analysis.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1d284c6a-e39e-4ebf-8e5b-53259e2096f6" alt="Image">
-</p>
+![Image](https://github.com/user-attachments/assets/5e29d069-062a-4ee6-a5cc-ffc3c131fb2d)
 
-<p align="justify">
-The output file in ".txt" format contains various pieces of information, with emphasis on fixed and/or random effects tests. The initial part of this file is shown below.
-</p>
+------------------------------------------------------------------------
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/61f4588c-b17a-4399-bfcd-0102aefc49ac" alt="Image">
-</p>
+After defining the analysis settings, the user must click the blue PLAY
+icon in the upper-left corner to execute the analysis. The results will
+be generated in ".txt" and/or ".xlsx" formats.
 
-<p align="justify">
-The results of the fixed and random effects tests are presented below:
-</p>
+![Image](https://github.com/user-attachments/assets/6cea531f-63f8-48ff-9014-167e23417a85)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/57c7867d-a252-4b33-9234-37a401bcdb17" alt="Image">
-</p>
+------------------------------------------------------------------------
 
-<p align="justify">
-The individual analysis showed a non-significant treatment effect for the MST trait. The results file also presents the experiment mean (38.3925), the coefficient of variation (14.8683%), and the average standard deviation of variances among treatments (4.0364).
-</p>
+The output file in ".txt" format contains various pieces of information,
+with emphasis on fixed and/or random effects tests. The initial section
+of this file is shown below.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9d9b806c-6f06-49ab-b86c-cff822645d43" alt="Image">
-</p>
+![Image](https://github.com/user-attachments/assets/2f2582f8-262d-446c-8088-73726ef51bb3)
 
+------------------------------------------------------------------------
+
+The results of fixed and random effects tests are presented below:
+
+![Image](https://github.com/user-attachments/assets/65f19297-774e-40a9-b62e-54b06bcc83fa)
+
+------------------------------------------------------------------------
+
+The individual analysis revealed a significant treatment effect for the
+SG trait. The results file also provides the experiment mean
+(1067.3823), the coefficient of variation (0.5389%), and the average
+standard deviation of variances among treatments (9.8463).
+
+![Image](https://github.com/user-attachments/assets/a6887218-741b-48af-8ddf-09f303ea0a18)
