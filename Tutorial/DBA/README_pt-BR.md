@@ -75,7 +75,7 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="justify">
-A análise individual permitiu observar efeito significativo de tratamentos para o caráter GE. O arquivo de resultados também apresenta a média do experimento (1867.3823), o coeficiente de variação (0.5389%) e o desvio padrão médio das variâncias entre tratamentos (9.8463).
+A análise individual permitiu observar efeito significativo de tratamentos para o caráter GE. O arquivo de resultados também apresenta a média do experimento (1067.3823), o coeficiente de variação (0.5389%) e o desvio padrão médio das variâncias entre tratamentos (9.8463).
 </p>
 
 <p align="center">
