@@ -63,7 +63,7 @@ O arquivo de saída em formato ".txt" contém diversas informações, com destaq
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8a0dc53e-5893-47a0-a6a8-5071b96ee0bf" alt="Image">
+  <img src="https://github.com/user-attachments/assets/cbb6fe12-5b02-4f30-ac83-9f0e4d420e4f" alt="Image">
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bae4125e-2234-4c94-9b78-1c6999ed78bb" alt="Image">
+  <img src="https://github.com/user-attachments/assets/cbb6fe12-5b02-4f30-ac83-9f0e4d420e4f" alt="Image">
 </p>
 
 <p align="center">
