@@ -71,7 +71,7 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65f19297-774e-40a9-b62e-54b06bcc83fa" alt="Image">
+  <img src="https://github.com/user-attachments/assets/6721c97b-f76d-47d0-a0e4-edd6a2c7b464" alt="Image">
 </p>
 
 <p align="justify">
