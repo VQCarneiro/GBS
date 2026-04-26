@@ -71,11 +71,11 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cbb6fe12-5b02-4f30-ac83-9f0e4d420e4f" alt="Image">
+  <img src="https://github.com/user-attachments/assets/bd767844-f833-4d0e-8767-f3f15f01bd8e" alt="Image">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/15fab0a4-eb20-4584-9bcd-738374ae2ec2" alt="Image">
+  <img src="https://github.com/user-attachments/assets/c7de40d8-cef7-455f-a93c-bf7d65e4eb90" alt="Image">
 </p>
 
 <p align="justify">
