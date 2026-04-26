@@ -39,7 +39,7 @@ A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilh
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4033571b-fa59-402f-b229-c0fdc7c5fa95" alt="Image">
+  <img src="https://github.com/user-attachments/assets/6abbb264-db41-4465-b4c2-7de02d7ea5c2" alt="Image">
 </p>
 
 <p align="justify">
