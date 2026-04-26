@@ -51,9 +51,9 @@ Additionally, GBS enables the analysis of experiments with missing plots and pro
 
 ---
 
-## Modules and Tutorial
+## Modules
 
-GBS includes procedures for experimental design planning, spreadsheet editing, and statistical analyses applied to plant breeding. By accessing the links below, users can find tutorials for each procedure.
+GBS includes procedures for experimental design planning, spreadsheet editing, and statistical analyses applied to plant breeding. 
 
 ### Experimental Design Planning
 
@@ -65,12 +65,17 @@ GBS includes procedures for experimental design planning, spreadsheet editing, a
 
 ### Experimental Statistics
 
-- [Completely Randomized Design](Tutorial/DIC/README.md);
-- [Randomized Complete Block Design (RCBD)](https://github.com/VQCarneiro/GBS/tree/main/Tutorial/DBC);  
+- Completely Randomized Design;
+- Randomized Complete Block Design (RCBD);  
 - Augmented Block Design;  
 - Partially Replicated Design (PREP);  
 - Square Lattices: Balanced and Partially Balanced (Simple and Triple);  
 - Combined Design Analyses: Augmented Blocks / Lattices.
+
+---
+## Tutorials and Case Studies
+
+By accessing this [link](Tutorial/README.md), users can find tutorials for each procedure.
 
 ---
 
