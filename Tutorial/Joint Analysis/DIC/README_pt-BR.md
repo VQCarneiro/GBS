@@ -14,7 +14,7 @@
 
 ---
 
-## Análises Conjuntas de Experimentos
+## Análise Conjunta de Experimentos
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-- Para fins de exemplo, foi utilizada a avaliação de 9 tratamentos de uma espécie vegetal em dois experimentos quanto à massa seca total.
+- Para fins de exemplo, foi utilizada a avaliação de 9 tratamentos de uma espécie vegetal em dois experimentos quanto à massa seca total (MST).
 
 ---
 
@@ -35,7 +35,7 @@ A figura a seguir mostra onde está localizado o procedimento de análise conjun
 </p>
 
 <p align="justify">
-A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter os Tratamentos obrigatoriamente na primeira coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
+A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter a identificação dos experimentos na primeira coluna (Exp) e dos Tratamentos (Trat) na segunda coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilh
 </p>
 
 <p align="justify">
-Após carregar o arquivo, o usuário deve acessar a aba de procedimentos e definir a natureza dos efeitos do modelo estatístico. Caso o efeito de tratamento seja considerado fixo, é possível selecionar um teste de médias a ser realizado juntamente com a análise.
+Após carregar o arquivo, o usuário deve acessar a aba de procedimentos e definir a natureza dos efeitos do modelo estatístico. Na aba procedimentos ainda é possível definir se a análise considerará as variâncias residuais e a de blocos como homogêneas ou heterogêneas. Além disso, caso o efeito de tratamento seja considerado fixo, é possível selecionar um teste de médias (aba Médias) a ser realizado juntamente com a análise. 
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="justify">
-A análise individual permitiu observar efeito não significativo de tratamentos para o caráter MST. O arquivo de resultados também apresenta a média do experimento (38.3925), o coeficiente de variação (14.8683%) e o desvio padrão médio das variâncias entre tratamentos (4.0364).
+A análise individual permitiu observar efeito não significativo de tratamentos para o caráter MST. O arquivo de resultados também apresenta a média do experimento (43.5907) e o desvio padrão médio das variâncias entre tratamentos (3.6587).
 </p>
 
 <p align="center">
