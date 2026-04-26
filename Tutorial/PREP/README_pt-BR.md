@@ -22,12 +22,12 @@
 
 ---
 
-- Para fins de exemplo, foi utilizada a avaliação de 49 tratamentos de uma espécie vegetal quanto à severidade de crestamento bacteriano (SCB) e produtividade de grãos (PRODUTIVIDADE).
+- Para fins de exemplo, foi utilizada a avaliação de 307 tratamentos de uma espécie vegetal quanto à gravidade específica (GE).
 
 ---
 
 <p align="justify">
-A figura a seguir mostra onde está localizado o procedimento de análise individual de experimentos em delineamento de Látices no software. Este procedimento está preparado para analisar dados oriundos de experimentos em látices quadrado, retangular e alpha látices.
+A figura a seguir mostra onde está localizado o procedimento de análise individual de experimentos em delineamento parcialmente repetido no software.
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ A figura a seguir mostra onde está localizado o procedimento de análise indivi
 </p>
 
 <p align="justify">
-A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter, obrigatoriamente, a identificação das repetições (REP) na primeira coluna, dos blocos na segunda coluna e a dos Tratamentos na terceira coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software. Nessa aba você poderá escolher para qual variável você deseja realizar a análise. Nesse estudo de caso, será realizada a análise para SCB. Ressalta-se que as análises no software GBS são realizadas para cada variável separadamente.
+A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter, obrigatoriamente, a identificação das linhas (Linha) na primeira coluna, das colunas (Coluna) na segunda coluna e a dos Tratamentos (ID) na terceira coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software. Nessa aba você poderá escolher para qual variável você deseja realizar a análise.
 </p>
 
 <p align="center">
@@ -79,6 +79,6 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="justify">
-A análise individual permitiu observar efeito significativo de tratamentos para o caráter SCB. O arquivo de resultados também apresenta a média do experimento (6.6122), o coeficiente de variação (16.6097%) e o desvio padrão médio das variâncias entre tratamentos (0.8967).
+A análise individual permitiu observar efeito significativo de tratamentos para o caráter SCB. O arquivo de resultados também apresenta a média do experimento (1068.8455), o coeficiente de variação (0.9034%) e o desvio padrão médio das variâncias entre tratamentos (13.2633).
 </p>
 
