@@ -53,7 +53,7 @@ Também possibilita a análise de experimentos que apresentam parcelas perdidas 
 
 ## Módulos e Tutorial
 
-O software GBS conta com procedimentos para planejamento experimental, edição de planilhas e análises estatísticas aplicadas ao melhoramento vegetal. Ao clicar nos links a seguir você encontrará os tutoriais de cada um dos procedimentos. 
+O software GBS conta com procedimentos para planejamento experimental, edição de planilhas e análises estatísticas aplicadas ao melhoramento vegetal. 
 
 ### Planejamento Experimental
 
@@ -73,6 +73,13 @@ O software GBS conta com procedimentos para planejamento experimental, edição 
 - Combinação de Delineamentos: Blocos Aumentados / Látices.
 
 ---
+
+## Tutorials and Case Studies
+
+Ao clicar neste [link](Tutorial/README_pt-BR.md) você encontrará os tutoriais de cada um dos procedimentos. 
+
+---
+
 
 ## Contribua!
 
