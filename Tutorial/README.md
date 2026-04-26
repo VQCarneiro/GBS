@@ -28,6 +28,6 @@ By clicking on the links below, you will find tutorials for each of the procedur
 
 #### Joint Analysis
 
-- [Completely Randomized Desing](Tutorial/Joint Analysis/DIC/README.md);
+- [Completely Randomized Desing](https://github.com/VQCarneiro/GBS/blob/081e87f92edbccb3e86093ba7cd39ada42f458d9/Tutorial/Joint%20Analysis/DIC/README.md));
 
 ---
