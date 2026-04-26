@@ -63,7 +63,7 @@ O arquivo de saída em formato ".txt" contém diversas informações, com destaq
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/492a189c-fb6a-46a1-92a7-d89e2785d01e" alt="Image">
+  <img src="https://github.com/user-attachments/assets/8a0dc53e-5893-47a0-a6a8-5071b96ee0bf" alt="Image">
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6721c97b-f76d-47d0-a0e4-edd6a2c7b464" alt="Image">
+  <img src="https://github.com/user-attachments/assets/bae4125e-2234-4c94-9b78-1c6999ed78bb" alt="Image">
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ A análise individual permitiu observar efeito significativo de tratamentos para
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6887218-741b-48af-8ddf-09f303ea0a18" alt="Image">
+  <img src="https://github.com/user-attachments/assets/15fab0a4-eb20-4584-9bcd-738374ae2ec2" alt="Image">
 </p>
 
 
