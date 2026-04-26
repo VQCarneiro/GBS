@@ -22,12 +22,12 @@
 
 ---
 
-- Para fins de exemplo, foi utilizada a avaliação de 493 tratamentos de uma espécie vegetal quanto à gravidade específica (GE).
+- Para fins de exemplo, foi utilizada a avaliação de 49 tratamentos de uma espécie vegetal quanto à severidade de crestamento bacteriano (SCB) e produtividade de grãos (PRODUTIVIDADE).
 
 ---
 
 <p align="justify">
-A figura a seguir mostra onde está localizado o procedimento de análise individual de experimentos em delineamento de blocos aumentados no software.
+A figura a seguir mostra onde está localizado o procedimento de análise individual de experimentos em delineamento de Látices no software. Este procedimento está preparado para analisar dados oriundos de experimentos em látices quadrado, retangular e alpha látices.
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ A figura a seguir mostra onde está localizado o procedimento de análise indivi
 </p>
 
 <p align="justify">
-A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter, obrigatoriamente, a identificação dos blocos na primeira coluna e a dos Tratamentos na segunda coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
+A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter, obrigatoriamente, a identificação das repetições (REP) na primeira coluna, dos blocos na segunda coluna e a dos Tratamentos na terceira coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software. Nessa aba você poderá escolher para qual variável você deseja realizar a análise. Nesse estudo de caso, será realizada a análise para SCB. Ressalta-se que as análises no software GBS são realizadas para cada variável separadamente.
 </p>
 
 <p align="center">
@@ -74,12 +74,10 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
   <img src="https://github.com/user-attachments/assets/bae4125e-2234-4c94-9b78-1c6999ed78bb" alt="Image">
 </p>
 
-<p align="justify">
-A análise individual permitiu observar efeito significativo de tratamentos para o caráter GE. O arquivo de resultados também apresenta a média do experimento (1067.3823), o coeficiente de variação (0.5389%) e o desvio padrão médio das variâncias entre tratamentos (9.8463).
-</p>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/15fab0a4-eb20-4584-9bcd-738374ae2ec2" alt="Image">
 </p>
 
-
+<p align="justify">
+A análise individual permitiu observar efeito significativo de tratamentos para o caráter SCB. O arquivo de resultados também apresenta a média do experimento (6.6122), o coeficiente de variação (16.6097%) e o desvio padrão médio das variâncias entre tratamentos (0.8967).
+</p>
