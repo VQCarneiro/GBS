@@ -55,7 +55,7 @@ Após definir as configurações da análise, o usuário deve clicar no ícone a
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d284c6a-e39e-4ebf-8e5b-53259e2096f6" alt="Image">
+  <img src="https://github.com/user-attachments/assets/c7a6815e-069c-4804-989b-d60090b065a9" alt="Image">
 </p>
 
 <p align="justify">
