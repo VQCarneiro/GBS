@@ -20,11 +20,11 @@ By clicking on the links below, you will find tutorials for each of the procedur
 
 #### Individual Analysis
 
-- [Completely Randomized Design](Tutorial/DIC/README.md);  
-- [Randomized Complete Block Design](Tutorial/DBC/README.md);  
-- [Augmented Blocks](https://github.com/VQCarneiro/GBS/blob/46d2644985140620085817056954f7a9f8f1104c/Tutorial/DBA/README.md);  
-- [Partially Replicated Design (PREP)](https://github.com/VQCarneiro/GBS/blob/a2c0462aa3327ed6af67a63075be58b23202c38c/Tutorial/PREP/README.md);  
-- [Square, Rectangular, and Alpha Lattice Designs](https://github.com/VQCarneiro/GBS/blob/a2c0462aa3327ed6af67a63075be58b23202c38c/Tutorial/L%C3%A1tice/README.md);  
+- [Completely Randomized Design](https://github.com/VQCarneiro/GBS/blob/652cc320c92202cc4c0f129b1864d4b63d2ac888/Tutorial/Individual%20Analysis/DIC/README.md);  
+- [Randomized Complete Block Design](https://github.com/VQCarneiro/GBS/blob/652cc320c92202cc4c0f129b1864d4b63d2ac888/Tutorial/Individual%20Analysis/DBC/README.md);  
+- [Augmented Blocks](https://github.com/VQCarneiro/GBS/blob/652cc320c92202cc4c0f129b1864d4b63d2ac888/Tutorial/Individual%20Analysis/DBA/README.md);  
+- [Partially Replicated Design (PREP)](https://github.com/VQCarneiro/GBS/blob/652cc320c92202cc4c0f129b1864d4b63d2ac888/Tutorial/Individual%20Analysis/PREP/README.md);  
+- [Square, Rectangular, and Alpha Lattice Designs](https://github.com/VQCarneiro/GBS/blob/652cc320c92202cc4c0f129b1864d4b63d2ac888/Tutorial/Individual%20Analysis/L%C3%A1tice/README.md);  
 
 #### Joint Analysis
 
