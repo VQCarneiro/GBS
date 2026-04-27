@@ -27,6 +27,6 @@ Ao clicar nos links a seguir você encontrará os tutoriais de cada um dos proce
 
 #### Análises Conjuntas
 
-- [Blocos Completamente Casualizados](https://github.com/VQCarneiro/GBS/blob/7ee463f767f64cd61530e7cbaaec86570cddc45c/Tutorial/README_pt-BR.md);
+- [Inteiramente Casualizado](https://github.com/VQCarneiro/GBS/blob/85f8b3a4bbc0f47a91bff51160a04c08fed8caca/Tutorial/Joint%20Analysis/DIC/README_pt-BR.md);
 ---
 
