@@ -18,7 +18,7 @@
 
 ---
 
-### Delineamento Inteiramente Casulizado
+### Delineamento de Blocos Completamente Casualizados
 
 ---
 
@@ -31,7 +31,7 @@ A figura a seguir mostra onde está localizado o procedimento de análise conjun
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b2e0f0ed-6fe8-4dec-9581-f8070f704e0a" alt="Image">
+  <img src="https://github.com/user-attachments/assets/68888a5a-b0f6-4c64-a827-ea697dc4610a"  alt="Image">
 </p>
 
 <p align="justify">
@@ -39,7 +39,7 @@ A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilh
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6abbb264-db41-4465-b4c2-7de02d7ea5c2" alt="Image">
+  <img src="https://github.com/user-attachments/assets/1b00e7b1-60b4-4a2c-ba18-b3f5554c73c3" alt="Image">
 </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ Após carregar o arquivo, o usuário deve acessar a aba de procedimentos e defin
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/316fa090-bd9c-40f9-873f-531d98558ba7" alt="Image">
+  <img src="https://github.com/user-attachments/assets/558faaa9-87cb-445d-82c7-eeb136c93a1b" alt="Image">
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ Após definir as configurações da análise, o usuário deve clicar no ícone a
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c7a6815e-069c-4804-989b-d60090b065a9" alt="Image">
+  <img src="https://github.com/user-attachments/assets/fc1570ef-4276-47cf-bc57-7e9cf738de86" alt="Image">
 </p>
 
 <p align="justify">
@@ -63,7 +63,7 @@ O arquivo de saída em formato ".txt" contém diversas informações, com destaq
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/535f7702-d5d0-4768-ab9d-6ab6534e3186"  alt="Image">
+  <img src="https://github.com/user-attachments/assets/09242d6b-fce1-4651-af39-62fed93cbe72"  alt="Image">
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4f507754-f585-4ff8-9b97-fc62020733c9" alt="Image">
+  <img src="https://github.com/user-attachments/assets/31a0da96-0939-4b6b-9d22-d729c1dd2737" alt="Image">
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ A análise individual permitiu observar efeito não significativo de tratamentos
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3863aad1-d91d-45f1-84e7-1f83c6fda328" alt="Image">
+  <img src="https://github.com/user-attachments/assets/427271b0-8260-4b46-b579-205d9b383e8d" alt="Image">
 </p>
 
 
