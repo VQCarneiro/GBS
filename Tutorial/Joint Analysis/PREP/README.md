@@ -22,7 +22,7 @@
 
 ---
 
-- For demonstration purposes, an evaluation of 319 treatments of a plant species was conducted across two experiments for specific gravity (SG).
+- For demonstration purposes, an evaluation of 319 treatments of a plant species was conducted across two experiments for specific gravity (GE).
 
 ---
 
