@@ -18,16 +18,16 @@
 
 ---
 
-### Delineamento de Blocos Completamente Casualizados
+### Delineamento de Látices (Quadrado, Retangular e Alpha Látices)
 
 ---
 
-- Para fins de exemplo, foi utilizada a avaliação de 29 tratamentos de uma espécie vegetal em dois experimentos quanto à massa de 100 grãos (M100G).
+- Para fins de exemplo, foi utilizada a avaliação de 49 tratamentos de uma espécie vegetal em dois experimentos quanto à severidade de crestamento bacteriano (SCB).
 
 ---
 
 <p align="justify">
-A figura a seguir mostra onde está localizado o procedimento de análise conjunta de experimentos em delineamento de blocos completamente casualizados no software.
+A figura a seguir mostra onde está localizado o procedimento de análise conjunta de experimentos em delineamento de Látices no software.
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ A figura a seguir mostra onde está localizado o procedimento de análise conjun
 </p>
 
 <p align="justify">
-A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter a identificação dos experimentos na primeira coluna (Amb), das repetições (REP) na segunda coluna e dos Tratamentos (Trat) na segunda coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
+A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter a identificação dos experimentos na primeira coluna (Amb), das repetições (REP) na segunda coluna, dos blocos na terceira repetição (Blocos) e dos Tratamentos (Trat) na quarta coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="justify">
-A análise individual permitiu observar efeito significativo de tratamentos, ambientes e interação tratamentos por ambientes para o caráter M100G. O arquivo de resultados também apresenta a média do experimento (27.3064) e o desvio padrão médio das variâncias entre tratamentos (0.8424).
+A análise individual permitiu observar efeito significativo de tratamentos e ambientes. Entretanto, não foi observado efeito significativo da interação tratamentos por ambientes para o caráter SCB. O arquivo de resultados também apresenta a média do experimento (6.0510), herdabilidade (0.5938) e acurácia (0.7627).
 </p>
 
 <p align="center">
