@@ -5,7 +5,7 @@
 ---
 
 🌎 Language:
-- 🇺🇸 [Portuguese](README_pt-BR.md)
+- 🇺🇸 [Portuguese](README_pt-Br.md)
   
 ---
 
