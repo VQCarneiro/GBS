@@ -29,5 +29,9 @@ By clicking on the links below, you will find tutorials for each of the procedur
 #### Joint Analysis
 
 - [Completely Randomized Desing](https://github.com/VQCarneiro/GBS/blob/081e87f92edbccb3e86093ba7cd39ada42f458d9/Tutorial/Joint%20Analysis/DIC/README.md);
+- [Randomized Complete Block Design](https://github.com/VQCarneiro/GBS/blob/a4b9b7288d6dc685d04b8ab982c5899a89cfd63e/Tutorial/Joint%20Analysis/DBC/README.md);  
+- [Augmented Blocks](https://github.com/VQCarneiro/GBS/blob/a4b9b7288d6dc685d04b8ab982c5899a89cfd63e/Tutorial/Joint%20Analysis/DBA/README.md);  
+- [Partially Replicated Design (PREP)](https://github.com/VQCarneiro/GBS/blob/a4b9b7288d6dc685d04b8ab982c5899a89cfd63e/Tutorial/Joint%20Analysis/PREP/README.md);
+- [Square, Rectangular, and Alpha Lattice Designs](https://github.com/VQCarneiro/GBS/blob/a4b9b7288d6dc685d04b8ab982c5899a89cfd63e/Tutorial/Joint%20Analysis/L%C3%A1tices/README.md);  
 
 ---
