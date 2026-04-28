@@ -31,7 +31,7 @@ A figura a seguir mostra onde está localizado o procedimento de análise conjun
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/68888a5a-b0f6-4c64-a827-ea697dc4610a"  alt="Image">
+  <img src="https://github.com/user-attachments/assets/4980f9ff-72cf-4c97-8f61-1fb34a4680e7"  alt="Image">
 </p>
 
 <p align="justify">
@@ -39,7 +39,7 @@ A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilh
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1b00e7b1-60b4-4a2c-ba18-b3f5554c73c3" alt="Image">
+  <img src="https://github.com/user-attachments/assets/cf8e5535-1b71-4ffd-a774-6e101bea255d" alt="Image">
 </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ Após carregar o arquivo, o usuário deve acessar a aba de procedimentos e defin
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/558faaa9-87cb-445d-82c7-eeb136c93a1b" alt="Image">
+  <img src="https://github.com/user-attachments/assets/25e14ba4-ec88-4d42-ab3e-741693fd2115" alt="Image">
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ Após definir as configurações da análise, o usuário deve clicar no ícone a
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc1570ef-4276-47cf-bc57-7e9cf738de86" alt="Image">
+  <img src="https://github.com/user-attachments/assets/e75dab11-d170-494e-84af-f9506c75418d" alt="Image">
 </p>
 
 <p align="justify">
@@ -63,7 +63,7 @@ O arquivo de saída em formato ".txt" contém diversas informações, com destaq
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/09242d6b-fce1-4651-af39-62fed93cbe72"  alt="Image">
+  <img src="https://github.com/user-attachments/assets/30925c9c-b1e6-4eef-af45-4e878cca52e1"  alt="Image">
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31a0da96-0939-4b6b-9d22-d729c1dd2737" alt="Image">
+  <img src="https://github.com/user-attachments/assets/9679de13-b458-458a-b03a-37b125b4a2b9" alt="Image">
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ A análise individual permitiu observar efeito significativo de tratamentos, amb
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/427271b0-8260-4b46-b579-205d9b383e8d" alt="Image">
+  <img src="https://github.com/user-attachments/assets/bf518578-d96d-434c-ac25-ce866e4292bf" alt="Image">
 </p>
 
 
