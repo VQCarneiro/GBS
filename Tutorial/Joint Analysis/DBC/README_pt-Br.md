@@ -22,12 +22,12 @@
 
 ---
 
-- Para fins de exemplo, foi utilizada a avaliação de 9 tratamentos de uma espécie vegetal em dois experimentos quanto à massa seca total (MST).
+- Para fins de exemplo, foi utilizada a avaliação de 29 tratamentos de uma espécie vegetal em dois experimentos quanto à massa de 100 grãos (M100G).
 
 ---
 
 <p align="justify">
-A figura a seguir mostra onde está localizado o procedimento de análise conjunta de experimentos em delineamento inteiramente casualizado no software.
+A figura a seguir mostra onde está localizado o procedimento de análise conjunta de experimentos em delineamento de blocos completamente casualizados no software.
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ A figura a seguir mostra onde está localizado o procedimento de análise conjun
 </p>
 
 <p align="justify">
-A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter a identificação dos experimentos na primeira coluna (Exp) e dos Tratamentos (Trat) na segunda coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
+A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter a identificação dos experimentos na primeira coluna (Amb), das repetições (REP) na segunda coluna e dos Tratamentos (Trat) na segunda coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="justify">
-A análise individual permitiu observar efeito não significativo de tratamentos para o caráter MST. O arquivo de resultados também apresenta a média do experimento (43.5907) e o desvio padrão médio das variâncias entre tratamentos (3.6587).
+A análise individual permitiu observar efeito significativo de tratamentos, ambientes e interação tratamentos por ambientes para o caráter M100G. O arquivo de resultados também apresenta a média do experimento (27.3064) e o desvio padrão médio das variâncias entre tratamentos (0.8424).
 </p>
 
 <p align="center">
