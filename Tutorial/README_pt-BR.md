@@ -28,5 +28,10 @@ Ao clicar nos links a seguir você encontrará os tutoriais de cada um dos proce
 #### Análises Conjuntas
 
 - [Inteiramente Casualizado](https://github.com/VQCarneiro/GBS/blob/85f8b3a4bbc0f47a91bff51160a04c08fed8caca/Tutorial/Joint%20Analysis/DIC/README_pt-BR.md);
+- [Blocos Completamente Casualizados](https://github.com/VQCarneiro/GBS/blob/d90b609c2ddb9140b2dc5e83a6bc13142d933dd6/Tutorial/Joint%20Analysis/DBC/README_pt-Br.md);  
+- [Blocos Aumentados](https://github.com/VQCarneiro/GBS/blob/d90b609c2ddb9140b2dc5e83a6bc13142d933dd6/Tutorial/Joint%20Analysis/DBA/README_pt-BR.md);  
+- [Parcialmente Repetido (PREP)](https://github.com/VQCarneiro/GBS/blob/d90b609c2ddb9140b2dc5e83a6bc13142d933dd6/Tutorial/Joint%20Analysis/PREP/README_pt-BR.md);  
+- [Látices Quadrados, Retangulares e Alpha Látices](https://github.com/VQCarneiro/GBS/blob/d90b609c2ddb9140b2dc5e83a6bc13142d933dd6/Tutorial/Joint%20Analysis/L%C3%A1tices/README_pt-BR.md);  
+
 ---
 
