@@ -22,12 +22,12 @@
 
 ---
 
-- Para fins de exemplo, foi utilizada a avaliação de 49 tratamentos de uma espécie vegetal em dois experimentos quanto à severidade de crestamento bacteriano (SCB).
+- Para fins de exemplo, foi utilizada a avaliação de 319 tratamentos de uma espécie vegetal em dois experimentos quanto à gravidade específica (GE).
 
 ---
 
 <p align="justify">
-A figura a seguir mostra onde está localizado o procedimento de análise conjunta de experimentos em delineamento de Látices no software.
+A figura a seguir mostra onde está localizado o procedimento de análise conjunta de experimentos em delineamento Parcialmente Repetido no software.
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ A figura a seguir mostra onde está localizado o procedimento de análise conjun
 </p>
 
 <p align="justify">
-A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter a identificação dos experimentos na primeira coluna (Amb), das repetições (REP) na segunda coluna, dos blocos na terceira repetição (Blocos) e dos Tratamentos (Trat) na quarta coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
+A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter a identificação dos experimentos na primeira coluna (Ano), linhages (Linha) na segunda coluna, colunas (Coluna) na terceira coluna e dos Tratamentos (ID) na quarta coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
 </p>
 
 <p align="center">
