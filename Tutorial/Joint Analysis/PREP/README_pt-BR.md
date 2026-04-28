@@ -35,7 +35,7 @@ A figura a seguir mostra onde está localizado o procedimento de análise conjun
 </p>
 
 <p align="justify">
-A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter a identificação dos experimentos na primeira coluna (Ano), linhages (Linha) na segunda coluna, colunas (Coluna) na terceira coluna e dos Tratamentos (ID) na quarta coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
+A primeira etapa consiste em montar uma planilha em formato ".csv". Essa planilha deve conter a identificação dos experimentos na primeira coluna (Ano), linhas (Linha) na segunda coluna, colunas (Coluna) na terceira coluna e dos Tratamentos (ID) na quarta coluna. As demais colunas correspondem às características avaliadas, podendo haver uma ou mais. A figura a seguir apresenta o procedimento de análise utilizando o arquivo de exemplo do software.
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Os resultados dos testes de efeitos fixos e aleatórios são apresentados a segu
 </p>
 
 <p align="justify">
-A análise individual permitiu observar efeito significativo de tratamentos e ambientes. Entretanto, não foi observado efeito significativo da interação tratamentos por ambientes para o caráter SCB. O arquivo de resultados também apresenta a média do experimento (6.0510), herdabilidade (0.5938) e acurácia (0.7627).
+A análise individual permitiu observar efeito significativo de tratamentos (ID), anos e interação tratamentos por anos. O arquivo de resultados também apresenta a média do experimento (1074.9358) e desvio padrão médio dos contrastes entre pares de tratamentos (ID) (8.5046).
 </p>
 
 <p align="center">
