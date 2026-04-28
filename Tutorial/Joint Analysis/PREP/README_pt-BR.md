@@ -79,7 +79,7 @@ A análise individual permitiu observar efeito significativo de tratamentos e am
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/96785d3b-bedf-432d-b823-29fd23f07158" alt="Image">
+  <img src="https://github.com/user-attachments/assets/50143b28-5f38-4345-9aa4-a9c5ae943465" alt="Image">
 </p>
 
 
