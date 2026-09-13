@@ -10,6 +10,7 @@
 
 - GBS is a free software designed to perform statistical analyses applied to quantitative genetics and plant breeding.  
 - Download: [GBS - Version 1.0](https://github.com/VQCarneiro/GBS/raw/refs/heads/GBS_VERSOES/GBS_1.0b.rar?download=)
+- Download: [GBS - Version 1.1 - Teste]https://github.com/VQCarneiro/GBS/raw/refs/heads/GBS_VERSOES/GBS_1.1t.rar?download=
 
 ---
 
